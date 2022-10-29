@@ -5,8 +5,12 @@
 - BACKEND
 
   Aplicación backend en lenguaje Java con Spring Boot.
+  
   Base de datos MySQL.
+  
   Utilización de JPA.
-  CRUD básico donde se guardan, actualizan y eliminar datos de una lista de vehículos.
+  
+  CRUD básico donde se guardan, actualizan y eliminan datos de una lista de vehículos.
+  
   
   Demo del sitio frontend: [Auticos](https://auticos.vercel.app/)
